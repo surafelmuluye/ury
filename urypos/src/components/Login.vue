@@ -9,7 +9,7 @@
         <div class="mb-8 flex justify-center">
           <img
             :src="imagePath"
-            alt="URY POS logo"
+            alt="Ghion Hotel POS logo"
             class="h-8 w-auto sm:h-8 lg:h-8"
           />
         </div>

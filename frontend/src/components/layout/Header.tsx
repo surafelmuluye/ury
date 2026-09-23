@@ -133,7 +133,7 @@ export const Header: React.FC = () => {
         {/* Left Section: Logo & Brand */}
         <div className="flex items-center space-x-3">
           <Link to="/dashboard" className="flex items-center space-x-3 group">
-            <img src={uryLogo} alt="URY Logo" className="h-7 w-auto" />
+            <img src={uryLogo} alt="Ghion Hotel Logo" className="h-7 w-auto" />
           </Link>
         </div>
 
